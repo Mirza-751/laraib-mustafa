@@ -1,4 +1,4 @@
-# My-Projects-laraib-mustafa
+# laraib-mustafa
 
 Hi, I'm Mirza Laraib Mustafa currently enrolled in a masters in Astrophysics and Cosmology at the University of Padova. My major interest is studying High Energy Phenomenon taking place in the universe. Below are some of work.
 
